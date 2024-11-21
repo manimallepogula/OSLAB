@@ -1,8 +1,8 @@
 # 14c program file
-[program file](program1.jpg)
+![program file](program1.jpg)
 
 # 14c sample output
-[sample output](sampleoutput.jpg)
+![sample output](sampleoutput.jpg)
 
 # 14c tested output
-[tested output](testedoutput.jpg)
+![tested output](testedoutput.jpg)
