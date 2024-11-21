@@ -1,8 +1,8 @@
 # 16a program file
-[program file](program.png)
+![program file](program.png)
 
 # 16a sample output
-[sample output](sampleoutput.png)
+![sample output](sampleoutput.png)
 
 # 16a tested output
-[tested output](testedoutput.png)
+![tested output](testedoutput.png)
